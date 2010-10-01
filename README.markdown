@@ -1,7 +1,7 @@
 What this is?
 =============
 
-Read http://github.com/blog/272-github-pages
+Read <http://github.com/blog/272-github-pages>
 
 Why?
 ====
