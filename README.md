@@ -1,14 +1,11 @@
-What this is?
-=============
+# What this is?
 
 Read <http://github.com/blog/272-github-pages>
 
-Why?
-====
+# Why?
 
 So I can have another piece of vaporware.
 
-Really?
-=======
+# Really?
 
-Yeah :/.
+Yeah 😕
